@@ -1,0 +1,6 @@
+Config ={
+	namscript ='skibidi toilet'
+	logoscript ='111828463929920'
+	credit = 'NTN'
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NTNgaming/skipiditoilet567/raw"))()
